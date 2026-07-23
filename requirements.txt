@@ -1,0 +1,10 @@
+Requirements:
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+joblib
+openpyxl
