@@ -352,6 +352,11 @@ Run the application
 ```bash
 streamlit run app.py
 ```
+## 🚀 Live Demo
+
+🌐 Streamlit App: https://fraud-analytics-system.streamlit.app
+
+📂 GitHub Repository: https://github.com/AyeshaSiddikhaShaik/AI-Driven-Financial-Fraud-Analytics-System
 
 # 📦 Required Libraries
 
