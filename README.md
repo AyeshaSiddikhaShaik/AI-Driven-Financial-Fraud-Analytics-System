@@ -266,15 +266,18 @@ The project includes an interactive **Microsoft Power BI Dashboard** that provid
 - 📉 Fraud Trend Analysis
 - 🎯 High Value Transaction Analysis
 
-## Dashboard Preview
+# Power BI Dashboard Preview
 
-> 📷 Replace the image below after uploading it to the `assets` folder.
+The Power BI dashboard file is not included in this repository because of GitHub file size limitation.
+
+If available, an interactive version can be accessed through the Power BI Service.
 
 ![Power BI Dashboard](assets/powerbi_dashboard.png)
 
 # 🌐 Streamlit Web Application
 
 A responsive web application was developed using **Streamlit** to provide real-time fraud prediction and interactive analytics.
+
 
 ## Modules
 
