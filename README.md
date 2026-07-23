@@ -1,15 +1,15 @@
 # 🛡️ AI-Driven Financial Fraud Analytics System
 
-<p align="center">
-  <img src="assets/banner.png" alt="AI-Driven Financial Fraud Analytics System Banner" width="100%">
-</p>
-
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn)
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-FF4B4B?style=for-the-badge&logo=streamlit)
 ![GitHub](https://img.shields.io/badge/GitHub-Open_Source-black?style=for-the-badge&logo=github)
+
+<p align="center">
+  <img src="assets/banner.png" alt="AI-Driven Financial Fraud Analytics System Banner" width="100%">
+</p>
 
 
 # 🚀 Project Overview
