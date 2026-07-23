@@ -1,3 +1,0 @@
-# Sample Dataset
-
-A sample dataset can be generated using the preprocessing notebook for testing the application.
